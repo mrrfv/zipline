@@ -56,12 +56,12 @@
     "fflate": "^0.7.4",
     "ffmpeg-static": "^5.1.0",
     "find-my-way": "^7.6.0",
-    "katex": "^0.16.4",
+    "katex": "^0.16.10",
     "mantine-datatable": "^2.2.6",
     "minio": "^7.0.33",
     "ms": "canary",
     "multer": "^1.4.5-lts.1",
-    "next": "^13.2.4",
+    "next": "^14.1.1",
     "otplib": "^12.0.1",
     "prisma": "^4.10.1",
     "prismjs": "^1.29.0",
@@ -72,7 +72,7 @@
     "recharts": "^2.5.0",
     "recoil": "^0.7.7",
     "remark-gfm": "^3.0.1",
-    "sharp": "^0.32.0"
+    "sharp": "^0.32.6"
   },
   "devDependencies": {
     "@types/cookie": "^0.5.1",
